@@ -1,18 +1,17 @@
-<!-- HEADER BANNER
 <p align="center">
-  <img src="./assets/header-banner.png" alt="Julian Schulte - Aspiring GenAI Engineer" width="100%" />
+  <img src="./assets/header.jpg" alt="Julian Schulte - GenAI Engineer" width="100%" />
 </p>
--->
 
-<h1 align="center">Julian Schulte</h1>
-<h3 align="center">Media Designer turned Software PM turned Aspiring GenAI Engineer</h3>
+---
+
+<h1 align="center">Hi, I'm Julian 👋</h1>
+<h3 align="center">From Zero Code to GenAI Engineering (Backed by a Design & PM Background)</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/schultejulian/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/Status-Open_to_Work-2EA44F?style=for-the-badge" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/Fuel-Caffeinated-6F4E37?style=for-the-badge" alt="Caffeinated" />
 </p>
 
 ---
