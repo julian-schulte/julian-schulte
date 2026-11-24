@@ -5,7 +5,7 @@
 ---
 
 <h1 align="center">Hi, I'm Julian 👋</h1>
-<h3 align="center">From Zero Code to GenAI Engineering (Backed by a Design & PM Background)</h3>
+<h3 align="center">GenAI Engineer in Training · Media Designer · Former IT PM</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/schultejulian/">
@@ -18,29 +18,21 @@
 
 ### About Me
 
-Most developers start with `Hello World`. I started with typography, pixels, and complex e-commerce architectures.
+Before writing Python scripts, I spent years building online shops, designing interfaces, and managing web-to-print software projects. Working right between clients and dev teams made me realize I wanted to build the software myself instead of just managing the roadmap.
 
-After years of designing digital interfaces, scaling web and print software projects, and translating between business requirements and dev teams, I hit a reset button and switched sides of the table. Right now, I am training to become a **GenAI Engineer** at **Masterschool (MSIT)**, combining a designer's eye for clean UX with structured software engineering.
+After recovering from burnout, I made a clean cut and started the **GenAI Engineering** program at **Masterschool Institute of Technology (MSIT)**. Today, I'm focused on backend development, Python, and AI workflows: bringing my PM knodwledge and a media designer's eye for structure and usability into my code.
 
-- **Currently working on:** Python fundamentals, Linux workflows, and building my first open-source automation tools for 3D printing and music production.
-- **Currently learning:** Python, Git/GitHub, backend logic, and AI engineering foundations at **MSIT**.
-- **My background advantage:** I do not just write code that runs. I care about how real users interact with it.
-- **Off the clock:** Printing functional parts on a Bambu Lab X2D, producing Drum & Bass, and dialing in proper espresso shots.
+- **Current focus:** Python, Git/GitHub, Linux (CachyOS), and AI engineering foundations.
+- **Building:** CLI tools to automate repetitive tasks in my 3D printing and music production workflows.
 
 ---
 
-### From Pixels to Prompts: My Background
+### Background
 
-<!--
-<p align="center">
-  <img src="./assets/journey-timeline.png" alt="Career Evolution: Media Designer to GenAI Engineer" width="100%" />
-</p>
--->
-
-1. **Media Designer:** Learned visual hierarchy, UI/UX principles, and why bad kerning hurts.
-2. **Web & E-Commerce:** Built and scaled online shops (Shopware, Magento, WordPress) with real user traffic.
-3. **Software Project Manager:** Led web-to-print and software projects, bridging the gap between clients and dev teams.
-4. **System Reboot & GenAI Engineer:** Took a step back after burnout to focus 100% on deep technical engineering, Python, and Generative AI.
+1. **Media Designer:** Print, visual hierarchy, UI/UX, and why bad kerning hurts. (and it really does)
+2. **Web & E-Commerce:** Built and maintained online shops (Shopware, Magento, WordPress).
+3. **Software Project Manager:** Led web-to-print projects, translating client specs into technical requirements.
+4. **GenAI Engineer (in training):** Shifted full-time into software development, Python, and Generative AI at MSIT.
 
 ---
 
@@ -49,14 +41,22 @@ After years of designing digital interfaces, scaling web and print software proj
 **Development & OS**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+**Project Management & Collaboration**
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 **E-Commerce & CMS**
@@ -79,11 +79,8 @@ After years of designing digital interfaces, scaling web and print software proj
 
 ### Projects
 
-> Planned and upcoming projects below.
-
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| **`bambu-filament-cost-calc`** | Python CLI tool calculating real 3D print unit costs (filament weight, energy, print time, and margin) for Bambu Studio exports. | In Development |
-| **`dnb-sample-renamer`** | Automated Python file organizer that parses BPM and musical keys from chaotic Drum & Bass sample packs. | Planned |
+| **`bambu-filament-cost-calc`** | Python CLI tool calculating real 3D print unit costs (filament weight, energy, labor, buffer, and margin) for Bambu Lab prints. | In Development |
+| **`fl-sample-renamer`** | Python file organizer that parses BPM and musical keys from sample packs. | Planned |
 
-*(Once these repositories hit v1.0, they will be pinned directly below with full documentation.)*
