@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.jpg" alt="Julian Schulte - GenAI Engineer" width="100%" />
+  <img src="./assets/js_git_banner.png" alt="Julian Schulte - GenAI Engineer" width="100%" />
 </p>
 
 ---
